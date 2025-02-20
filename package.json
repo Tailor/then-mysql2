@@ -1,6 +1,6 @@
 {
   "name": "then-mysql2",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A wrapper for the MySQL driver to use promises, connection pooling and nicer APIs all round",
   "keywords": [
     "promise",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tailor/sync-mysql2"
+    "url": "https://github.com/Tailor/then-mysql2"
   },
   "author": "Tailor",
   "license": "MIT"
